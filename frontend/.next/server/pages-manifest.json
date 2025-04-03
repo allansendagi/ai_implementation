@@ -1,6 +1,13 @@
 {
   "/_error": "pages/_error.js",
-  "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/_app": "pages/_app.js",
+  "/affiliate-program": "pages/affiliate-program.js",
+  "/affiliate-tools": "pages/affiliate-tools.js",
+  "/auth": "pages/auth.js",
+  "/": "pages/index.js",
+  "/dashboard": "pages/dashboard.js",
+  "/projects/[projectId]/assessment": "pages/projects/[projectId]/assessment.js",
+  "/projects": "pages/projects.js",
+  "/projects/new": "pages/projects/new.js"
 }
